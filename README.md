@@ -1,1 +1,2 @@
-# This is a Repo to track my Daily Progress.
+# Description
+This repositories to track my Daily Progress.
