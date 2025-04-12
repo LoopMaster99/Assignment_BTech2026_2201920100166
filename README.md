@@ -1,2 +1,2 @@
 # Description
-This repositories to track my Daily Progress.
+This repository is use to track my daily progress.
